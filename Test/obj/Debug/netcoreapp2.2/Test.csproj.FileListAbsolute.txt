@@ -1,0 +1,11 @@
+/home/deeplearningcv/Desktop/Test/obj/Debug/netcoreapp2.2/Test.csprojAssemblyReference.cache
+/home/deeplearningcv/Desktop/Test/obj/Debug/netcoreapp2.2/Test.csproj.CoreCompileInputs.cache
+/home/deeplearningcv/Desktop/Test/obj/Debug/netcoreapp2.2/Test.AssemblyInfoInputs.cache
+/home/deeplearningcv/Desktop/Test/obj/Debug/netcoreapp2.2/Test.AssemblyInfo.cs
+/home/deeplearningcv/Desktop/Test/bin/Debug/netcoreapp2.2/Test.deps.json
+/home/deeplearningcv/Desktop/Test/bin/Debug/netcoreapp2.2/Test.runtimeconfig.json
+/home/deeplearningcv/Desktop/Test/bin/Debug/netcoreapp2.2/Test.runtimeconfig.dev.json
+/home/deeplearningcv/Desktop/Test/bin/Debug/netcoreapp2.2/Test.dll
+/home/deeplearningcv/Desktop/Test/bin/Debug/netcoreapp2.2/Test.pdb
+/home/deeplearningcv/Desktop/Test/obj/Debug/netcoreapp2.2/Test.dll
+/home/deeplearningcv/Desktop/Test/obj/Debug/netcoreapp2.2/Test.pdb
